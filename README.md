@@ -31,3 +31,10 @@ Once `tracy` is running and the plugin is installed, install the generated certi
 
 *Note:* The `tracy` binary and browser extension work together. Running one without the other 
 will result in unexpected behavior.
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
